@@ -39,3 +39,17 @@ This repository is your key to unlocking the potential of IMS. Dive into the cod
 Ready to revolutionize the way you manage inventory? Clone this repository, fire up your IDE, and get ready to embark on an adventure in efficient inventory management with IMS!
 
 **Happy Inventory-ing! 🎉📦**
+<br>
+<div align="center">
+   <img src="https://github.com/MohamedAboElnasr/Inventory-Management-System/assets/114421344/50e532dd-0082-41e8-ba41-5a669a699431" alt="Image 2" style="margin-right: 10px;" width="200"/>
+  <img src="https://github.com/MohamedAboElnasr/Inventory-Management-System/assets/114421344/f8bae662-db30-4957-8db8-c99e59b40e1f" alt="Image 3" style="margin-right: 10px;" width="200"/>
+  <img src="https://github.com/MohamedAboElnasr/Inventory-Management-System/assets/114421344/7e5598b5-c093-45bc-a1a5-e30fbc13b237" alt="Image 4" style="margin-right: 10px;" width="200"/>
+</div>
+<div align="center">
+  <img src="https://github.com/MohamedAboElnasr/Inventory-Management-System/assets/114421344/76545aa4-9c52-4be9-8c3d-ac99ca11d309" alt="Image 5" style="margin-right: 10px;" width="200"/>
+  <img src="https://github.com/MohamedAboElnasr/Inventory-Management-System/assets/114421344/2bf4c86f-f498-40bb-ba35-24f31a73bcd7" alt="Image 6" style="margin-right: 10px;" width="200"/>
+  <img src="https://github.com/MohamedAboElnasr/Inventory-Management-System/assets/114421344/165dd44f-0169-4cac-96dd-9c6b2a3fee15" alt="Image 7" style="margin-right: 10px;" width="200"/>
+  </div>
+
+
+
